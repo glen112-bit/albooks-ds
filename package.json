@@ -36,7 +36,7 @@
     "trailingComma": "es5"
   },
   "name": "albooks-ds",
-  "author": "Glen Escobar",
+  "author": "glen112",
   "module": "dist/ds-alurabooks-base.esm.js",
   "size-limit": [
     {
